@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="content_text">Samsung Galaxy S20 adalah varian terendah dari seri Galaxy S20 terbaru. Hp ini punya spesifikasi di bawah dua hp saudaranya, yaitu Samsung Galaxy S20 Ultra dan S20+. Meskipun begitu, spesifikasi yang dimilikinya masih bisa mengungguli kebanyakan hp flagship Android di kelasnya.Samsung Galaxy S20 adalah varian terendah dari seri Galaxy S20 terbaru. Hp ini punya spesifikasi di bawah dua hp saudaranya, yaitu Samsung Galaxy S20 Ultra dan S20+. Meskipun begitu, spesifikasi yang dimilikinya masih bisa mengungguli kebanyakan hp flagship Android di kelasnya.</string>
+    <string name="content_specs_display">6.2 inch Dynamic AMOLED</string>
+    <string name="content_specs_size">151.7 x 69.1 x 7.9 mm\n
+163g</string>
+    <string name="content_specs_battery">Li-Po 4000 mAh</string>
+    <string name="stock">Stock hanya 10 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Ryan_Sidabutar</string>
+    <string name="buy">Beli</string>
+    <string name="hubungi_penjual">Hubungi Penjual</string>
+    <string name="dummy_value">Rp12,999,000</string>
+    <string name="dummy_photos">1 photos</string>
+    <string name="berhasil_beli">Produk Telah Berhasil Dibeli</string>
+    <string name="memori">memori</string>
+</resources>
